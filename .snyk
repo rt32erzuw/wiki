@@ -1,0 +1,38 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.14.1
+ignore: {}
+# patches apply the minimum changes required to fix a vulnerability
+patch:
+  SNYK-JS-LODASH-567746:
+    - lodash:
+        patched: '2020-04-30T21:43:39.616Z'
+    - cheerio > lodash:
+        patched: '2020-04-30T21:43:39.616Z'
+    - elasticsearch > lodash:
+        patched: '2020-04-30T21:43:39.616Z'
+    - knex > lodash:
+        patched: '2020-04-30T21:43:39.616Z'
+    - node-cache > lodash:
+        patched: '2020-04-30T21:43:39.616Z'
+    - objection > lodash:
+        patched: '2020-04-30T21:43:39.616Z'
+    - validator-as-promised > lodash:
+        patched: '2020-04-30T21:43:39.616Z'
+    - getos > async > lodash:
+        patched: '2020-04-30T21:43:39.616Z'
+    - winston > async > lodash:
+        patched: '2020-04-30T21:43:39.616Z'
+    - request-promise > request-promise-core > lodash:
+        patched: '2020-04-30T21:43:39.616Z'
+    - passport-saml > xml-encryption > async > lodash:
+        patched: '2020-04-30T21:43:39.616Z'
+    - mssql > tedious > adal-node > async > lodash:
+        patched: '2020-04-30T21:43:39.616Z'
+    - mathjax-node > jsdom > request-promise-native > request-promise-core > lodash:
+        patched: '2020-04-30T21:43:39.616Z'
+    - pug > pug-code-gen > constantinople > babel-types > lodash:
+        patched: '2020-04-30T21:43:39.616Z'
+    - pug > pug-filters > constantinople > babel-types > lodash:
+        patched: '2020-04-30T21:43:39.616Z'
+    - pug > pug-code-gen > pug-attrs > constantinople > babel-types > lodash:
+        patched: '2020-04-30T21:43:39.616Z'
