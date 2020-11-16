@@ -58,7 +58,7 @@
     "custom-error-instance": "2.1.1",
     "dependency-graph": "0.8.0",
     "diff": "4.0.1",
-    "diff2html": "2.9.0",
+    "diff2html": "3.0.0",
     "dotize": "0.3.0",
     "elasticsearch": "16.1.0",
     "emoji-regex": "8.0.0",
