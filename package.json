@@ -68,7 +68,7 @@
     "file-type": "11.1.0",
     "filesize": "4.1.2",
     "fs-extra": "8.0.1",
-    "getos": "3.1.1",
+    "getos": "3.1.2",
     "graphql": "14.3.1",
     "graphql-list-fields": "2.0.2",
     "graphql-rate-limit-directive": "1.1.0",
@@ -160,7 +160,7 @@
     "validate.js": "0.12.0",
     "validator": "11.0.0",
     "validator-as-promised": "1.0.2",
-    "winston": "3.2.1",
+    "winston": "3.3.0",
     "yargs": "13.2.4"
   },
   "devDependencies": {
