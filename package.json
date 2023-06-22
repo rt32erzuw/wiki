@@ -36,7 +36,7 @@
   "dependencies": {
     "@aoberoi/passport-slack": "1.0.5",
     "@bugsnag/js": "6.3.0",
-    "algoliasearch": "3.33.0",
+    "algoliasearch": "4.0.0",
     "apollo-fetch": "0.7.0",
     "apollo-server": "2.6.1",
     "apollo-server-express": "2.6.1",
@@ -83,7 +83,7 @@
     "js-base64": "2.5.1",
     "js-binary": "1.2.0",
     "js-yaml": "3.13.1",
-    "jsonwebtoken": "8.5.1",
+    "jsonwebtoken": "9.0.0",
     "klaw": "3.0.0",
     "knex": "0.17.1",
     "lodash": "4.17.11",
@@ -133,7 +133,7 @@
     "passport-saml": "1.1.0",
     "passport-twitch": "1.0.3",
     "pem-jwk": "2.0.0",
-    "pg": "7.11.0",
+    "pg": "8.4.0",
     "pg-hstore": "2.3.2",
     "pg-query-stream": "2.0.0",
     "pg-tsquery": "8.0.4",
@@ -146,7 +146,7 @@
     "safe-regex": "2.0.2",
     "sanitize-filename": "1.6.1",
     "scim-query-filter-parser": "1.1.0",
-    "semver": "6.1.1",
+    "semver": "7.5.2",
     "serve-favicon": "2.5.0",
     "simple-git": "1.113.0",
     "solr-node": "1.2.1",
@@ -161,7 +161,7 @@
     "validator": "11.0.0",
     "validator-as-promised": "1.0.2",
     "winston": "3.2.1",
-    "yargs": "13.2.4"
+    "yargs": "13.3.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
